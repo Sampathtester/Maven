@@ -6,6 +6,7 @@ public class practice {
 		
 		System.out.println("How are you");
 		System.out.println("hello");
+		System.err.println("Dasara");
 	}
 
 }
